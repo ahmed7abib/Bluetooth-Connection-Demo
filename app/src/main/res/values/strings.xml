@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MetersConnectionDemo</string>
+    <string name="bluetooth_demo">Bluetooth Connection Demo</string>
+    <string name="bluetooth_optical">Bluetooth Optical</string>
+    <string name="usb_serial_optical">USB Serial Optical</string>
+    <string name="connect">Connect</string>
+    <string name="read_some_data">Read Data</string>
+    <string name="output">Result</string>
+</resources>
